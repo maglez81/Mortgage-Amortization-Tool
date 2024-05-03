@@ -1,4 +1,3 @@
-```markdown
 # Mortgage Amortization Calculator :house_with_garden:
 
 Welcome to the Mortgage Amortization Calculator! This tool is designed to assist you in understanding and comparing different mortgage plans. It accounts for effects like lump sum payments and additional monthly payments on your total interest and the term of the mortgage.
