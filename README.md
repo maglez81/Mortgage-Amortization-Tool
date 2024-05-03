@@ -77,6 +77,8 @@ The Mortgage Amortization Calculator goes beyond basic data tabulation by provid
 
 ### How Visualizations Enhance Your Strategic Planning:
 
+![screenshot](./resources//plot.png)
+
 - **Amortization Graphs**: See a visual representation of your payment schedule over the life of the mortgage. These graphs break down each payment into principal and interest components, showing how each payment contributes to reducing your overall debt and building equity in your property.
 
 - **Interest and Principal Over Time**: Track how much of your money goes towards interest versus principal each month. This visualization helps you understand the true cost of borrowing and how prepayments can alter the cost structure in your favor.
